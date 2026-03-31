@@ -34,14 +34,7 @@ This project aims to analyze historical world population data and forecast futur
 - **Educational Resource**: Serves as an educational tool for students and enthusiasts interested in demography, data science, and predictive analytics.
 
 This project not only showcases technical skills in data analysis and forecasting but also emphasizes the practical implications of understanding population trends for future planning and development.
-<br />
+
 
 <!-- # Sample Visuals   -->
-<p  align="left center">
-  <img  src="" width=75% height=50%/>
 
-<p  align="left center">
-  <img  src="" width=75% height=50%/>
-
-<p  align="left center">
-  <img  src="" width=75% height=50%/>
