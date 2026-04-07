@@ -2,7 +2,7 @@
 
 # Resume details grouped by sections
 Header = '   This resume was generated entirely in Python using matplotlib.\n   See portfolio link for full source code: https://github.com/Sonya-7/Resume'
-Name = 'SONYA LAWRENCE-THOMPSON'.upper()
+Name = 'SONYA LAWRENCE'.upper()
 Title = 'Financial Data Analysis & Data Science'
 contactHeader = 'CONTACT'
 Contact = 'Atlanta Metro Area, GA\n904-615-5819\nlawrences@huntington.edu\nlinkedin.com/in/sonya-lt\nhttps://sonyalt.vercel.app'
