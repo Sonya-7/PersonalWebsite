@@ -18,7 +18,7 @@ ProjectThreeTitle = 'IBM Data Science Capstone'
 ProjectThreeDesc = '- Real-world Data Science problem simulation\n- Created machine learning models (MLM) for accurate aerospace predictions\n- Successfully predicted the likelihood of SpaceX\'s Falcon 9 first-stage landing'
 
 WorkHeader = 'RELEVANT EXPERIENCE'
-WorkOneTitle = 'Investment Analyst\n Self-Employed'
+WorkOneTitle = 'Investment Analyst\n FCRD Services'
 WorkOneTime = ' Oct 2023 - Present'
 WorkOneDesc = '- Analyzed investment opportunities and created financial models to\n  support decision-making\n- Developed and maintained dashboards to track portfolio performance\n- Provided investment recommendations based on market analysis'
 WorkTwoTitle = 'Financial Analyst\n Jacksonville Orthopaedic Institute'
